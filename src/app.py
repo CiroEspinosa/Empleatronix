@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.title('EMPLEATRONIX')
-df = pd.read_csv('employees.csv')
+df = pd.read_csv('data/employees.csv')
 st.write("Todos los datos sobre los empleados en una aplicación.")
 
 # if st.checkbox('Mostrar la tabla'):
