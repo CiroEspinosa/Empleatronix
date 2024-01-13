@@ -35,3 +35,5 @@ else:
 plt.xlim(0, 4500)
 
 st.pyplot(fig)
+
+st.write("© Ciro León Espinosa Avilés")
